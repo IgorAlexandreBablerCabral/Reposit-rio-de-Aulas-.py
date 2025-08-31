@@ -24,7 +24,6 @@ print('num_convert', type(num_convert))
 num_float = float(num)
 print("num_float" , type(num_float))
 
-from __future__ import print_function
 nome = input("Digite seu nome ")
 print(nome)
 

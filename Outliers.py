@@ -49,6 +49,7 @@ print('Dados com Outliers tratados: \n' , df)
 #Salvar Dataframe
 df.to_csv('Cliente_remove_outliers.csv',index=False)
 
+#TESTE GIT FUNCIONA
 
 
 
